@@ -4,7 +4,7 @@
 
 ![image](https://raw.githubusercontent.com/lingyicute/Nebulove/main/Nebulove.png)
 
-### 「Nebulove」？
+### 🌠「Nebulove」？
 
 「Nebulove」是星光与心事相拥时，诞生的名字：
 **Nebula**（星云）揉碎深蓝夜幕里银河的柔光，把 **Love**（爱意）藏进圆润的转角。
