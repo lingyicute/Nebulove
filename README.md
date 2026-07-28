@@ -2,7 +2,7 @@
 
 ## 梨の手写字 / 写给宇宙的情书，落作予你的字迹。❤️ 
 
-![image](https://raw.githubusercontent.com/lingyicute/Nebulove/main/Nebulove.png)
+![image](https://raw.githubusercontent.com/lingyicute/Nebulove/main/nebulove.jpg)
 
 ### 🌠「Nebulove」？
 
