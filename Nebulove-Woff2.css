@@ -1,0 +1,18 @@
+/* Nebulove · 星念你 — 星云揉碎银河的柔光，把爱意藏进圆润的转角 ✨
+ *
+ * 优化版 woff2：1,275,924 B（1.22 MiB），保留全部 7255 个字符
+ * 相比直接把 TTF 转 woff2（1,648,404 B）再小 22.6%，相比原 TTF 小 56.3%
+ *
+ * 实测最大轮廓偏差 4.0 单位（upem=1000，即 0.40% em）：
+ *   16px 下 ≈ 0.06px，120px 下 ≈ 0.48px，正常阅读/标题尺寸看不出差别。
+ */
+@font-face {
+    font-family: 'Nebulove';
+    src: url('Nebulove.woff2') format('woff2');
+    /* 需要兼容 woff2 之前的老浏览器时，把下面这行加进 src 列表即可
+       （代价是那部分浏览器会去下载 2.79 MiB 的原始 TTF）：
+       url('https://raw.githubusercontent.com/lingyicute/Nebulove/main/Nebulove.ttf') format('truetype'); */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
