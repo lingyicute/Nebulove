@@ -8,7 +8,7 @@
  */
 @font-face {
     font-family: 'Nebulove';
-    src: url('Nebulove.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/lingyicute/Nebulove/main/Nebulove.woff2') format('woff2');
     /* 需要兼容 woff2 之前的老浏览器时，把下面这行加进 src 列表即可
        （代价是那部分浏览器会去下载 2.79 MiB 的原始 TTF）：
        url('https://raw.githubusercontent.com/lingyicute/Nebulove/main/Nebulove.ttf') format('truetype'); */
