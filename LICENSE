@@ -1,0 +1,66 @@
+# Nebulove Project Embedding Permission
+
+**Version 1.0 · Non-commercial · Effective upon publication of this version**  
+**Copyright © 2026 lingyicute. All rights reserved, except for the limited permission below.**
+
+> This is a project-specific permission for using Nebulove inside qualifying software projects. It is **not** a general open-font license and does not permit standalone redistribution or unrelated reuse of the font.
+
+## 1. Definitions
+
+**“Nebulove” or “Font”** means the Nebulove typeface and its font-program files in any format, including TTF, WOFF, and WOFF2 files; subsets; glyph data; and copies embedded, encoded, or otherwise incorporated into source code, HTML, CSS, binaries, or other project files.
+
+**“Eligible Project”** means an open-source software project authored, created, or published by lingyicute that includes Nebulove with a source reference, together with forks, modified versions, and other derivative versions of that same project. This definition does not make an unrelated project eligible merely because it is open source or links to Nebulove.
+
+**“Subsetting Script”** means the script used to create, regenerate, or update a subset of Nebulove for an Eligible Project.
+
+## 2. Limited permission
+
+Subject to all conditions in this document, lingyicute grants each recipient of Nebulove as part of an Eligible Project a worldwide, non-exclusive, royalty-free, **non-commercial** permission to reproduce, subset, embed, display, and redistribute Nebulove **only as an integrated part of that Eligible Project or its fork/modified version**. This permission covers the project’s source, non-commercial builds, and non-commercial deployment of the project.
+
+This permission does not allow a recipient to:
+
+- distribute the full font or a subset as a standalone font, font package, or independent download;
+- use or embed Nebulove in an unrelated project, product, or service;
+- sell, sublicense, or otherwise commercially exploit Nebulove as a font asset; or
+- claim that lingyicute endorses a fork or modified project.
+
+If a person wants to use Nebulove commercially or outside an Eligible Project, they must obtain separate written permission from lingyicute or remove/replace the Font. This restriction applies to the Font only; it does not change the separate license that applies to an Eligible Project’s software code. A project’s code may be used under its own license without Nebulove, subject to that code license.
+
+For this permission, **“Commercial Use”** includes use primarily intended for commercial advantage or monetary compensation, including sale or paid distribution, paid access or subscriptions, paid hosting, use in a commercial product or service, or deployment monetized through advertising, sponsorship, affiliate links, or similar means.Commercial embedding, displaying, or deployment of Font Material in a commercial product or service is Commercial Use, even when the Font Material is not sold or distributed as a standalone font. Personal, educational, research, and non-profit use without such commercial advantage or monetization is non-commercial.
+
+## 3. Required source reference and attribution
+
+Whenever an Eligible Project includes or uses Nebulove, its source repository must retain a clear source reference linking to **at least one** of these official sources:
+
+- <https://github.com/lingyicute/Nebulove>
+- <https://nebulove.92li.uk>
+
+The reference may appear in the README, a credits/notice file, an About or Credits section, a source comment, or—when the project uses a subset—in the Subsetting Script. The full text of this permission does not need to be copied into every project, provided the source reference remains and the permission is discoverable from the linked source.
+
+Any copyright, source, or attribution notice for Nebulove that lingyicute included with the original project or font integration must be retained verbatim while Nebulove remains in the project. It must not be deleted, altered, hidden, or obscured. If a required notice originally appeared in the user-facing interface, it must remain in that interface or in an equivalently visible Credits/About location. Project-specific wording designated by lingyicute as required attribution is subject to the same rule.
+
+## 4. Additional condition for subsets
+
+If an Eligible Project includes a subset of Nebulove, the project’s source repository and source distributions must retain the Subsetting Script used to create or regenerate that subset. The script may be modified for the project or a fork, but it must not be removed, and it must continue to identify at least one official Nebulove source listed above. The script may refer to the source by a comment or URL; it does not have to download the font from the internet during every build.
+
+The Subsetting Script need not be included in a runtime-only deployment, provided it remains available in the project’s source repository/source distribution. Any Nebulove attribution or source notice already present in the script must also be preserved.
+
+## 5. Relationship to project licenses
+
+This document governs Nebulove as a separate font asset only. It does not place Nebulove under AGPL, MIT, or another software license merely because the Font is embedded in a project file. Conversely, a project’s software license does not grant rights to use Nebulove beyond this limited permission.
+
+For clarity, if Nebulove is embedded in a source file that is also distributed under a software license, the project must include a short notice identifying the Font as a separately licensed asset and linking to this permission. The source-reference requirement in Section 3 may satisfy this requirement; the full terms do not need to be copied into the project. The font-specific permission does not expand or replace the license for the project’s code.
+
+## 6. Version, termination, and warranty
+
+This permission applies to copies of Nebulove distributed under this version. Later revisions may apply to later distributions, but do not retroactively change the terms applicable to a copy that was already received and is being used in compliance with this version.
+
+A recipient’s permission ends if they fail to comply with these terms. All rights not expressly granted here are reserved by the copyright holder.
+
+Nebulove is provided “as is,” without warranties of any kind, to the maximum extent permitted by applicable law.
+
+## Short notice for projects that include Nebulove
+
+A project may use this short notice instead of copying the full terms.
+
+> **Font: Nebulove by lingyicute. This is a separately licensed asset and is not covered by the project’s software license. Used under the [Nebulove Project Embedding Permission, Version 1.0](https://github.com/lingyicute/Nebulove/blob/main/LICENSE). Source: [Nebulove](https://github.com/lingyicute/Nebulove) or [nebulove.92li.uk](https://nebulove.92li.uk).**

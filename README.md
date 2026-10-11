@@ -14,4 +14,4 @@
 
 ### 🗂️ License
 
-Copyright (C) 2026 lingyicute. All rights reserved.
+Copyright (C) 2026 lingyicute. All rights reserved, except for the [limited permission](./LICENSE).
